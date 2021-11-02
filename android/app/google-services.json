@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "601827437840",
+    "project_id": "genidy-7837e",
+    "storage_bucket": "genidy-7837e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601827437840:android:61baa49362e5e221b8c995",
+        "android_client_info": {
+          "package_name": "com.genidy.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601827437840-km1rha16tiri34rr8efrcsiq27ed9nhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.genidy.client",
+            "certificate_hash": "d42543165c989311247eea6b909adca0212b0e0a"
+          }
+        },
+        {
+          "client_id": "601827437840-rmbq0b3ahda5foll6j1q86gpoup11hc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQCkWjJMr4hDcll0C5w91L93sERoz8zTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601827437840-rmbq0b3ahda5foll6j1q86gpoup11hc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
